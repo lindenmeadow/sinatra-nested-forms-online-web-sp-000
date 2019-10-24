@@ -14,6 +14,6 @@ class Ship
     SHIPS
   end
 
-  def 
-  
+  def
+
 end
